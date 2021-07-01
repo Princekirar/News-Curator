@@ -1,1 +1,2 @@
 # News-Curator
+Fake news is any form of false story or content spread on the internet to influence people’s view to gain inimical benefits. Detecting fake news in the digital world is a significant challenge in overcoming the widespread dissemination of rumors and biases. for eg. there was an article spreading the news that "Cadbury chocolate is infected with HIV-Positive Blood". Rumors began to spread, damaging Cadbury’s reputation.
